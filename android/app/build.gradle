@@ -50,6 +50,9 @@ android {
         }
     }
 }
+dependencies{
+    implementation 'com.facebook.android:facebook-login:13.1.0'
+}
 
 flutter {
     source '../..'
